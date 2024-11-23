@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydub
+numpy
+torch
+transformers
